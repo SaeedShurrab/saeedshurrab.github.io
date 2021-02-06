@@ -7,7 +7,7 @@
     <description>Saeed Shurrab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://saeedshurrab.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://saeedshurrab.github.io/images/icon_hu6b7664f523075193f9f11d79c1c9dcfa_49291_512x512_fill_lanczos_center_2.png</url>
       <title>Saeed Shurrab</title>
       <link>https://saeedshurrab.github.io/</link>
     </image>
@@ -249,7 +249,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-652847913&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-136957284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -259,7 +259,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-652847913&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-136957284&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
