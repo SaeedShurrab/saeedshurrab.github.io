@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Saeed Shurrab
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Saeed A. S. 
+last_name: Shurrab
 
 # Status emoji
 status:
