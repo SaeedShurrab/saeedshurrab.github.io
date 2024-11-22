@@ -10,8 +10,8 @@ first_name: Saeed A. S.
 last_name: Shurrab
 
 # Status emoji
-status:
-  icon: ☕️
+# status: 
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,49 +20,49 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Global PhD Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: New York University
+    url: https://nyuad.nyu.edu/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sas10092@nyu.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/saeedsh91
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SaeedShurrab
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/saeedshurrab/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=HYA9rgYAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-7008-9158
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Self-supervised learning
+  - Multi-modal Learning
+  - AI empowered healthcare
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Biomedical Engineering
+    institution: New York University
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc in Data Science and Artificial Intelligence
+    institution: Jordan University of Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc in Industrial and Systems Engineering
+    institution: Islamic University of Gaza
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
