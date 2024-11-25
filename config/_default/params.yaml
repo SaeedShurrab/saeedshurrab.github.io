@@ -5,8 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme: minimal
+  mode: dark
+  color: blue
 
 # SEO
 marketing:
@@ -34,6 +35,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    align: "center"
     logo:
       text: "Saeed Shurrab"
 
@@ -55,6 +57,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
